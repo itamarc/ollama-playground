@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PDFs used to test RAG
+*/pdfs/*.pdf
+
+# Vim temp files
+*~
+*.swp
+
